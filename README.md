@@ -13,7 +13,7 @@ Este software portátil executa funções de limpeza e otimização no sistema W
 
 1. Baixe o arquivo ZIP.
 2. Extraia tudo para uma pasta.
-3. Execute `ManutencaoWindows.exe`.
+3. Execute `Utilitário Windows.exe`.
 4. Siga o menu exibido no PowerShell.
 
 ## Licença
