@@ -8,6 +8,7 @@ Este software portátil executa funções de limpeza e otimização no sistema W
 - Reparo de integridade do sistema
 - Otimização de conexão (DNS, IP, cache)
 - Otimização da inicialização (desativação de itens desnecessários)
+- Limpeza de registros (v1.0.1)
 
 ## Como usar
 
